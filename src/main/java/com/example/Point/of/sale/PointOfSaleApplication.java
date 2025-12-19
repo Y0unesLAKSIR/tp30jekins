@@ -13,6 +13,6 @@ public class PointOfSaleApplication {
 
     @GetMapping
     public String hello() {
-        return "Hello from New Test :)";
+        return "Hello from New Test 2 :)";
     }
 }
